@@ -85,7 +85,3 @@ We are building the future of autonomous design. If you have ideas for better ag
 * **Maintainer:** [Felix Waweru](https://github.com/FelixWaweru)
 
 ---
-
-### Next Step for you:
-
-Would you like me to draft a **technical white paper summary** or a **Twitter/X announcement thread** to help you build the social proof that fal.ai looks for when awarding grants?
